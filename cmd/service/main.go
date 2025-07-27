@@ -1,5 +1,7 @@
 package main
 
-func main() {
+import "os/exec"
 
+func main() {
+	exec.Command()
 }
